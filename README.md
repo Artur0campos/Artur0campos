@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Pyhton html e css
 - 🌱 estou atualemtne estudando a framework Django 
-- ⚡ estou no 3° ano do ensino médio
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
