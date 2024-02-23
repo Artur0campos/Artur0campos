@@ -2,7 +2,7 @@
 
 - Hoje trabalho com Pyhton html e css
 
-- estou atualemtne estudando QT e c++
+- estou atualemtne estudando Swfit e swiftUI
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
