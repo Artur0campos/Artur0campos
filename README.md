@@ -9,12 +9,12 @@
 
 - Languagens and tools
   
-<img  align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="c++" height="50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-<img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-<img alig="center" alt= "django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  />
+<img  display:flex align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img display:flex align="center" alt="django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img display:flex align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img display:flex align="center" alt="c++" height="50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+<img display:flex align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img display:flex alig="center" alt= "django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  />
  
             
           
