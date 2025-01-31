@@ -1,6 +1,6 @@
 #  Artur Campos
 
-Tenho 19 anos e estudo programção desde de 2022, atualemnte estou cursando a Análise e desenvolvimento de sistemas pela 
+Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando Análise e desenvolvimento de sistemas pela 
 Unifan, trabalho com back-end e estou estudando para mobile IOS com Swfit   
 
 
