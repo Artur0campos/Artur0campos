@@ -8,7 +8,7 @@ Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando An
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur0campos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
