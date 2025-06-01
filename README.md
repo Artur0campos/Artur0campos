@@ -1,7 +1,6 @@
 #  Artur Campos
 
-Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando Análise e desenvolvimento de sistemas pela 
-Unifan, trabalho com back-end e estou estudando para mobile IOS com Swfit   
+Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando Análise e desenvolvimento de sistemas, trabalho com back-end e estou estudando para desenvolvimento desktop com java
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
