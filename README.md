@@ -3,14 +3,14 @@
 Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando Análise e desenvolvimento de sistemas, trabalho com back-end e estou estudando para desenvolvimento desktop com java
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <img 
       align="left" 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur0campos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+
 
 
 </head>
