@@ -6,7 +6,7 @@ Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando An
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur0campos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
