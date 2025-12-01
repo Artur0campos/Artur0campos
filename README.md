@@ -22,7 +22,6 @@ Tenho 19 anos e estudo programção desde de 2022, atualemente estou cursando An
         <img alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img alt="HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img alt="CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img alt="apache" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
         <img alt="swfit"  height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
         <img alt="C"  height="50" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" >
         <img alt="mysql"  height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
