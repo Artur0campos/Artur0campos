@@ -1,8 +1,6 @@
 # Artur Campos
 
-Tenho 19 anos e estudo programação desde 2022.  
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º semestre).  
-Trabalho com back-end.
+Tenho 20 anos e Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º semestre) e Sistemas da Informação pela UFRB (1º semestre).  
 
 ---
 
