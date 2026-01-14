@@ -6,18 +6,6 @@ Trabalho com back-end.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=tokyonight)
-
-<img 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur0campos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
----
-
 ## 🛠️ Languages and Tools
 
 <div align="left">
@@ -28,6 +16,9 @@ Trabalho com back-end.
 <img alt="Swift" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 <img alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img alt="MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
 
 </div>
 
