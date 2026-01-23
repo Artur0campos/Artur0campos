@@ -4,6 +4,7 @@ Tenho 20 anos e Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show_icons=true)
 ---
 
 ## 🛠️ Languages and Tools
