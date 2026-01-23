@@ -3,7 +3,7 @@
 Tenho 20 anos e Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º semestre) e Sistemas da Informação pela UFRB (1º semestre).  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur0campos&theme=dark&show_icons=true)
 ---
 
 ## 🛠️ Languages and Tools
