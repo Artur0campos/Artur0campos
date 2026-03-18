@@ -48,3 +48,9 @@ Sinta-se à vontade para entrar em contato para colaborações, projetos ou apen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturcampos100/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturcamposcamara@gmail.com)
+
+### 📄 Download do meu Currículo
+
+Clique no botão abaixo para visualizar ou baixar meu currículo atualizado:
+
+[![Download CV](https://img.shields.io/badge/Download-Currículo-0077B5?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/main/curriculo.pdf)
