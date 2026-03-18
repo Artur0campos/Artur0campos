@@ -52,6 +52,6 @@ Sinta-se à vontade para entrar em contato para colaborações, projetos ou apen
 ### 📄 Download do meu Currículo
 Clique no botão abaixo para acessar minha trajetória profissional completa:
 
-<a href="https://github.com/arturcampos100/arturcampos100/blob/main/CV%20Master%20resume_2026.1.pdf" target="_blank">
+<a href="https://drive.google.com/drive/folders/1Wmpvo2NqQKNhP31KQUQNQ3saGgWJHi0E?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Download-Currículo-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
 </a>
