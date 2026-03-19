@@ -6,8 +6,6 @@ Entusiasta de tecnologia e em constante aprendizado, focado em transformar probl
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (3º Semestre).
 - 🎓 Cursando **Sistemas da Informação** na **UFRB** (1º Semestre).
 - 📍 Baseado em **Feira de Santana, Bahia, Brasil**.
-- 💡 Interessado em desenvolvimento de software, arquitetura de sistemas e inovação.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -31,14 +29,6 @@ Entusiasta de tecnologia e em constante aprendizado, focado em transformar probl
   <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📈 Estatísticas do GitHub
-<div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur0campos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur0campos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
