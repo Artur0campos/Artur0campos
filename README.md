@@ -5,7 +5,7 @@ Entusiasta de tecnologia e em constante aprendizado, focado em transformar probl
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (3º Semestre).
 - 🎓 Cursando **Sistemas da Informação** na **UFRB** (1º Semestre).
-- 📍 Baseado em **Feira de Santana, Bahia, Brasil**.
+- 📍  **Feira de Santana, Bahia, Brasil**.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
