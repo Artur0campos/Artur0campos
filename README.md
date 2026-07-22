@@ -3,7 +3,7 @@
 ### 🐔 Sobre Mim
 Entusiasta de tecnologia e em constante aprendizado, focado em transformar problemas complexos em soluções digitais eficientes. Atualmente, divido minha rotina entre dois cursos de graduação para fortalecer tanto minha visão prática quanto teórica da computação.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (3º Semestre).
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4º Semestre).
 - 🎓 Cursando **Sistemas da Informação** na **UFRB** (1º Semestre).
 - 📍  **Feira de Santana, Bahia, Brasil**.
 ---
